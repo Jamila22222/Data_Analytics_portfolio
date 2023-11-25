@@ -1,6 +1,7 @@
 This is the Walmart sales data of different stores 
 # This is the Walmart sales data of different stores 
-jamilakoroma.github.com/portfolio
+
+source of database: https://www.kaggle.com/datasets/varsharam/walmart-sales-dataset-of-45stores
 
 
 Data Wrangling: This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace, missing or NULL values.
