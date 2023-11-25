@@ -1,5 +1,5 @@
 This is the Walmart sales data of different stores 
-# Data_Analytics_portfolio
+# This is the Walmart sales data of different stores 
 jamilakoroma.github.com/portfolio
 
 
