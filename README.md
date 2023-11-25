@@ -3,6 +3,9 @@ This is the Walmart sales data of different stores
 
 source of database: https://www.kaggle.com/datasets/varsharam/walmart-sales-dataset-of-45stores
 
+My aim:
+The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
+
 
 Data Wrangling: This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace, missing or NULL values.
 
