@@ -24,6 +24,9 @@ Generic Question
 How many unique cities does the data have?
 In which city is each branch?
 
+![WhatsApp Image 2023-03-23 at 12 47 43 PM](https://github.com/Jamila22222/Mysql-sales-data-/assets/127983099/5c0f6dcd-1e77-4fb1-90e2-2c673760d8af)
+
+
 
 Product
 How many unique product lines does the data have?
